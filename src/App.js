@@ -4,9 +4,9 @@ import TextForms from './components/TextForms';
 import About from './components/About';
 import React, { useState } from 'react'
 import Alert from './components/Alert';
-import { RouterProvider, createBrowserRouter } from 'react-router-dom';
+import {  RouterProvider, createBrowserRouter } from 'react-router-dom';
 
-// BrowserRouter, Routes, Route, import for other commented method
+// BrowserRouter, Routes, Route,
 // This whole project is done with the help of function based components 
 
 function App() {
